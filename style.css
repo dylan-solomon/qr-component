@@ -14,7 +14,7 @@ body {
     background-color: var(--Light-gray);
 }
 
-.container {
+main {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -35,7 +35,7 @@ body {
     border-radius: 1rem;
 }
 
-h2 {
+h1 {
     padding: .4rem 1rem 0 1rem;
     margin-bottom: -.4rem;
     color: var(--Dark-blue);
@@ -48,7 +48,7 @@ p {
 }
 
 @media (max-width: 375px) {
-    .container {
+    main {
         width: 80%;
     }
 }

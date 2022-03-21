@@ -18,11 +18,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 [Desktop Screenshot](./images/desktop-result.png)
 [Mobile Screenshot](./images/mobile-result.png)
 
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor solution page](https://www.frontendmentor.io/solutions/qr-code-component-AMbCtFMuWy)
+- Live Site URL: [Github Pages Live Site](https://dylan-solomon.github.io/qr-component/)
 
 ### Built with
 
@@ -35,6 +34,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 I learned how to correctly position a div element in the middle of a page. I have not positioned an element using position:absolute + transform(translate) previously.
 
 ## Author
+
 - Github - [dylan-solomon](https://www.github.com/dylan-solomon)
 
 ## Acknowledgments
